@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "react-test-renderer": "^18.2.0"
+
+  },
+  "scripts": {
+    "test": "node app.test.js"
+  }
+
+}
